@@ -1,4 +1,6 @@
-import java.util.Scanner;
+
+
+// import java.util.Scanner;
 
 
 class Lessons2_1 {
@@ -26,7 +28,7 @@ class Lessons2_1 {
 class Lessons2_2 {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
 //        int n = sc.nextInt();
 //        int [] mas = new int [n];
         int [] mas = {2,4,5,7,8};
